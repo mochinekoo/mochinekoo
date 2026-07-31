@@ -1,27 +1,34 @@
 # 自己紹介
 現在学生のもちねこです！趣味でプログラミングを勉強しています！まだまだ分からないことの方が多いです。よろしくお願いいたします！
+* 趣味：プログラミング、動画編集、広義ボカロ/ボカロを聞くこと
 
-# アカウントメモ
-## Top Language
-![Top Lang](https://status-1659.vercel.app/api/top-langs/?username=mochinekoo&langs_count=20&card_width=400&layout=compact)
-## Rank
-![Rank](https://github-readme-stats.vercel.app/api?username=mochinekoo&count_private=true&show_icons=true)
+# スキル・趣味等
+* 表に記載があるライブラリなどは、著名なライブラリ・ある程度規模があるもののみ記載しています。
 
-# 使ったことのある技術
-## 言語
-* Java（2020年3月～）
-* C、C++（2025年4月～）
-* Python、C#（2025年10月～）
-## ライブラリ、フレームワーク
-### Java
-Bukkit（2020年3月～）、JDA（2020年3月～）、net.minecraft.server（2024年10月～）、JavaFX（2025年8月～）、Android（2025年10月～）
-### C#
-WPF（2025年10月～）
-### Python
-discord.py（2025年10月～）
-### C、C++
-DxLib（2025年4月～）、Win32API（2025年10月～）
-## その他技術
-### クラウド
-* GCP（2020年3月～）
-* Azure（2025年～）
+## プログラミング言語
+|スキル|開始時期|
+|---|---|
+|Java|Minecraft系（2020/3～）、JavaFX（2025/8）、Android（2025/10～）|
+|C++|DirectX（2026/3～）|
+|C#|WPF（2025/10～）|
+|Python|thinker（2026/5～）|
+
+## プログラミングツール・ソフト
+|スキル|開始時期|その他|
+|---|---|---|
+|Eclipse|2020/3～|最初のMinecraftプラグインはEclipseで制作していました!|
+|InteilJ IDEA|2021/4～||
+
+## その他
+|スキル|開始時期|その他|
+|---|---|---|
+|Ubuntu|2018/8～||
+
+## ツール・ソフト
+|スキル|開始時期|
+|---|---|
+|Aviutl|Aviutl1（2020/3～）、Aviutl2（2026/3～）|
+|ゆっくりMovieMaker|2020/3～|
+|DavniciResolve|2026/7～|
+
+
