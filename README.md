@@ -8,16 +8,17 @@
 ## プログラミング言語
 |スキル|開始時期|
 |---|---|
-|Java|Minecraft系（2020/3～）、JavaFX（2025/8）、Android（2025/10～）|
-|C++|DirectX（2026/3～）|
-|C#|WPF（2025/10～）|
-|Python|thinker（2026/5～）|
+|![](https://skillicons.dev/icons?i=java)|Minecraft系（2020/3～）、JavaFX（2025/8）、Android（2025/10～）|
+|![](https://skillicons.dev/icons?i=cpp)|DirectX（2026/3～）|
+|![](https://skillicons.dev/icons?i=cs)|WPF（2025/10～）|
+|![](https://skillicons.dev/icons?i=python)|thinker（2026/5～）|
+|![](https://skillicons.dev/icons?i=html,css,js,ts)|2026/3～|
 
 ## プログラミングツール・ソフト
 |スキル|開始時期|その他|
 |---|---|---|
-|Eclipse|2020/3～|最初のMinecraftプラグインはEclipseで制作していました!|
-|InteilJ IDEA|2021/4～||
+|![](https://skillicons.dev/icons?i=eclipse)|2020/3～|最初のMinecraftプラグインはEclipseで制作していました!|
+|![](https://skillicons.dev/icons?i=idea)|2021/4～||
 
 ## その他
 |スキル|開始時期|その他|
