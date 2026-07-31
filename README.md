@@ -8,7 +8,7 @@
 ## プログラミング言語
 |スキル|開始時期|
 |---|---|
-|![](https://skillicons.dev/icons?i=java)|Minecraft系（2020/3～）、JavaFX（2025/8）、Android（2025/10～）|
+|![](https://skillicons.dev/icons?i=java)|Minecraftのプラグイン（2020/3～）、JavaFX（2025/8）、Android（2025/10～）|
 |![](https://skillicons.dev/icons?i=cpp)|DirectX（2026/3～）|
 |![](https://skillicons.dev/icons?i=cs)|WPF（2025/10～）|
 |![](https://skillicons.dev/icons?i=python)|thinker（2026/5～）|
