@@ -12,6 +12,7 @@
 |![](https://skillicons.dev/icons?i=cpp)|DirectX（2026/3～）|
 |![](https://skillicons.dev/icons?i=cs)|WPF（2025/10～）|
 |![](https://skillicons.dev/icons?i=python)|thinker（2026/5～）|
+|![](https://skillicons.dev/icons?i=kotlin)|Android（2026/5～）|
 |![](https://skillicons.dev/icons?i=html,css,js,ts)|2026/3～|
 
 ## プログラミングツール・ソフト
@@ -30,6 +31,7 @@
 |---|---|
 |Aviutl|Aviutl1（2020/3～）、Aviutl2（2026/3～）|
 |ゆっくりMovieMaker|2020/3～|
+|Blender|2026/6～|
 |DavniciResolve|2026/7～|
 
 
