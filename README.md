@@ -32,6 +32,7 @@
 |Aviutl|Aviutl1（2020/3～）、Aviutl2（2026/3～）|
 |ゆっくりMovieMaker|2020/3～|
 |Blender|2026/6～|
+|Unity|2026/7～|
 |DavniciResolve|2026/7～|
 
 
