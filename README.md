@@ -6,14 +6,14 @@
 * 表に記載があるライブラリなどは、著名なライブラリ・ある程度規模があるもののみ記載しています。
 
 ## プログラミング言語
-|スキル|開始時期|
-|---|---|
-|![](https://skillicons.dev/icons?i=java)|Minecraftのプラグイン（2020/3～）、JavaFX（2025/8）、Android（2025/10～）|
-|![](https://skillicons.dev/icons?i=cpp)|DirectX（2026/3～）|
-|![](https://skillicons.dev/icons?i=cs)|WPF（2025/10～）|
-|![](https://skillicons.dev/icons?i=python)|thinker（2026/5～）|
-|![](https://skillicons.dev/icons?i=kotlin)|Android（2026/5～）|
-|![](https://skillicons.dev/icons?i=html,css,js,ts)|2026/3～|
+|スキル|開始時期|主要な作品|
+|---|---|---|
+|![](https://skillicons.dev/icons?i=java)|Minecraftのプラグイン（2020/3～）<br>JavaFX（2025/8）<br>Android（2025/10～）|Minecraftプラグイン：[CoreAtack_PVP](https://github.com/mochinekoo/CoreAttack_PVP) <br> JavaFX：[Earthquake_Java_Application](https://github.com/mochinekoo/Earthquake_Java_Application) |
+|![](https://skillicons.dev/icons?i=cpp)|DirectX（2026/3～）| DirectX：[3D_Shooting_Game](https://github.com/mochinekoo/DirectX_3D_ShootingGame) |
+|![](https://skillicons.dev/icons?i=cs)|WPF（2025/10～）| WPF：[GIS_Viewer_CSharp](https://github.com/mochinekoo/GIS_Viewer_CSharp) |
+|![](https://skillicons.dev/icons?i=python)|thinker（2026/5～）| thinker：[Python_Memo_App](https://github.com/mochinekoo/Python_Memo_App) |
+|![](https://skillicons.dev/icons?i=kotlin)|Android（2026/5～）| Android：[Earthquake_App](https://github.com/mochinekoo/Android_Earthquake_App) |
+|![](https://skillicons.dev/icons?i=html,css,js,ts)|2026/3～| |
 
 ## プログラミングツール・ソフト
 |スキル|開始時期|その他|
@@ -24,7 +24,7 @@
 ## その他
 |スキル|開始時期|その他|
 |---|---|---|
-|Ubuntu|2018/8～||
+|Ubuntu|2018/8～| 自作のマニュアル：[Linux_Manual](https://github.com/mochinekoo/Linux_Manual) |
 
 ## ツール・ソフト
 |スキル|開始時期|
